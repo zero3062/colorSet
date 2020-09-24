@@ -1,3 +1,6 @@
+react-redux 예제를 이용하여 사용하는 방법
+========================
+
 아래  그림과 같이 입력한 문자를 색깔을 바꾸는 colorset을 redux를 사용한 것과, react-redux(react-router-redux)를 사용하여 구현 한 코드를 설명하겠습니다.
 
 ![{0AACD671-9A0D-4D77-B7C1-5D5EB90026F7}](./src/img/{0AACD671-9A0D-4D77-B7C1-5D5EB90026F7}.png.jpg)
